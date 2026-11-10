@@ -1,1 +1,1 @@
-# kalyvor-invoice-privac
+# kalyvor-invoice-privacy
